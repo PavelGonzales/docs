@@ -1,4 +1,5 @@
- ## Как задетектить браузер
+# Всякие трюки 
+### Как задетектить браузер
 
     // Opera 8.0+
     var isOpera = (!!window.opr && !!opr.addons) || !!window.opera || navigator.userAgent.indexOf(' OPR/') >= 0;
@@ -20,3 +21,7 @@
 
     // Blink engine detection
     var isBlink = (isChrome || isOpera) && !!window.CSS;
+
+## Полезные ссылки
+
+- Показывает различия трансформации в разных браузерах [ссылка] <https://greensock.com/svg-transforms>
