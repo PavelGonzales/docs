@@ -30,3 +30,4 @@ SVG анимировать только через GSAP.
 ## Полезные ссылки
 
 - Показывает различия трансформации в разных браузерах <https://greensock.com/svg-transforms>
+- Норм свитчер <https://codepen.io/PavelGonzales/pen/BZvGBE>
